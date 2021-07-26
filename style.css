@@ -1,0 +1,47 @@
+body{
+  background: #e6d8eb;
+  margin: 50px;
+}
+
+.Netherscape{
+  position: absolute;
+  margin-left: 72px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: ;
+  padding: 25px;
+  background: #9776a3
+  z-index: -2;
+  float:left;
+}
+
+.portal{
+  margin:12px;
+  Height:260px;
+  width: 200px;
+  border-radius: 10 px;
+  background: #b273c9;
+  background-position: center;
+  background-size:cover;
+  z-index: 0;
+  font-size: 200px;
+ 
+  
+  
+}
+
+#Title{
+  position: Absolute;
+  margin-left: 488px; 
+  z-index: 1;
+  font-size: 22px;
+  font-family: Cursive;
+  
+}
+
+
+  
+
+
+
